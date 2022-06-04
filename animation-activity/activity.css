@@ -3,6 +3,7 @@
   animation-name: top;
   animation-duration: 1s;
   animation-fill-mode: forwards;
+  
 }
 
 .hamburger:hover > div:nth-child(2){

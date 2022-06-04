@@ -10,10 +10,12 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  transform: scale(120px, 50%);
 }
 
 main > div {
   width: 40%;
   margin: auto;
   padding: 10%;
+  
 }
